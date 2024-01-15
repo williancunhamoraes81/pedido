@@ -24,7 +24,7 @@ git clone https://github.com/williancunhamoraes81/pedido.git
 
 localhost:8080/api/pedidos { GET }
 <br/>
-localhost:9800/api/filter { POST }
+localhost:9800/api/pedidos/filter { POST }
 <br/>
 localhost:9800/api/pedidos/{id} { GET }
 <br/>
